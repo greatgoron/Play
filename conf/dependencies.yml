@@ -2,4 +2,4 @@
 
 require:
     - play
-    - play -> About 0.1
+    - play -> log4play 0.0.1
