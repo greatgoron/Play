@@ -1,0 +1,5 @@
+# Application dependencies
+
+require:
+    - play
+    - play -> About 0.1
